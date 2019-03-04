@@ -2,3 +2,5 @@ lapte 1.5%
 paine
 oua
 ceai negru
+tort
+sampanie
